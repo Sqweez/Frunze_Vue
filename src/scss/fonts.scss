@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Yandex Sans Regular";
+  src: url("assets/fonts/text-regular.woff2");
+}
+@font-face {
+  font-family: "Yandex Sans Regular";
+  src: url("assets/fonts/text-bold.woff2");
+  font-weight: 700;
+}
+
+body {
+  font-size: 13px;
+  font-family: "Yandex Sans Regular", Arial, Helvetica, sans-serif;
+  color: #222;
+}
+
+a {
+  text-decoration: none;
+  color: #222;
+  font-weight: bold;
+}

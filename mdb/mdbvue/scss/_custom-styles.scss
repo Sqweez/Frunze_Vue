@@ -1,0 +1,15 @@
+p, ul {
+  margin-bottom: 0;
+}
+
+.btn {
+  font-family: "Yandex Sans Regular", Arial, Helvetica, sans-serif;
+  letter-spacing: .6px;
+  font-weight: 700;
+  border-radius: 5px;
+}
+
+.btn-default {
+  background: rgb(43,187,173);
+  background: linear-gradient(125deg, rgba(43,187,173,1) 35%, rgba(12,147,68,1) 100%);
+}

@@ -1,0 +1,33 @@
+{
+  "name": "frunze_app_v2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "start": "vue-cli-service serve --open"
+  },
+  "dependencies": {
+    "@bachdgvn/vue-otp-input": "^1.0.8",
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "firebase": "^8.2.9",
+    "mdbvue": "6.7.2",
+    "vue": "^2.6.11",
+    "vue-image-upload-resize": "^2.3.0",
+    "vue-router": "^3.2.0",
+    "vue2-touch-events": "^3.2.0",
+    "vuelidate": "^0.7.6",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2",
+    "vue-cli-plugin-mdb": "~2.1.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
